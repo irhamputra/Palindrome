@@ -11,6 +11,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "yarn run build && ns build"
+  },
+  "devDependencies": {
+    "now": "^11.1.6",
+    "now-serve": "^0.5.1"
   }
 }
