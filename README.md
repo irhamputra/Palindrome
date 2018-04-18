@@ -1,2 +1,2 @@
 ## Palindrome checking word
-[DEMO](https://palindrome-app-yizgoonswd.now.sh/)
+[DEMO](https://palidrome-app-react.herokuapp.com/)
