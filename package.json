@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "now": "^11.1.6",
-    "now-serve": "^0.5.1"
+    "now-serve": "^0.5.1",
+    "serve": "^6.5.5"
   }
 }
